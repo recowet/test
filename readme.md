@@ -13,3 +13,5 @@ This project contains basic sh scripts.
 NAME: ANTON PYKHTUNOV
 
 **E-MAIL**: recowet@gmail.com
+
+**E-MAIL**: recowet@ya.ru
