@@ -6,7 +6,7 @@ This project contains basic sh scripts.
 
 **NAME**: TESTING
 
-**VERSION**: 1.0.0
+**VERSION**: 1.0.1
 
 ## DEVELOPER INFO
 
